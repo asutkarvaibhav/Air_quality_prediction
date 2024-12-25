@@ -37,4 +37,7 @@ The project is deployed on Render, allowing users to input environmental paramet
 
 The Air Quality Prediction Project demonstrates the power of machine learning in addressing real-world environmental challenges. By leveraging data and predictive models, the project provides actionable insights to improve air quality management. The deployment ensures accessibility for practical applications and promotes proactive environmental decision-making.
 
-![PM2.5 Levels Over Days](pm25_levels_chart.png)
+
+
+
+
