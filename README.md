@@ -16,18 +16,21 @@ The Air Quality Prediction Project uses machine learning techniques to predict a
 
 
 **Data**
+
 The dataset used for this project includes parameters such as:
 
 * PM2.5 and PM10 levels
 * Temperature
 * Humidity
-* ind speed
+* Wind speed
 Data preprocessing involved handling missing values, scaling features, and splitting the data into training and testing sets.
 
 **Machine Learning Model**
+
 The project implements a Random Forest to predict air quality indices. The model was evaluated based on accuracy, precision, recall, and F1 score.
 
 **Deployment**
+
 The project is deployed on Render, allowing users to input environmental parameters and get real-time air quality predictions.
 
 **Conclusion**
